@@ -1,7 +1,5 @@
 import streamlit as st
 from langchain_ollama import ChatOllama
-#pip install -qU langchain-ollama
-#pip install langchain
 
 #Create your Title on the chat window
 st.title("🔵💬Trợ lý ảo riêng cho gia đình!")
